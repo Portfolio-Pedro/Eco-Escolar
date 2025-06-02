@@ -13,16 +13,14 @@ const errorMessage = document.getElementById('error-message');
 
 // Dados de exemplo para demonstração
 const exemploAlunos = [
-  { nome: 'Ana Silva', turma: '9º A', pontos: 150 },
-  { nome: 'João Santos', turma: '8º B', pontos: 135 },
-  { nome: 'Maria Oliveira', turma: '9º A', pontos: 128 },
-  { nome: 'Pedro Costa', turma: '7º C', pontos: 115 },
-  { nome: 'Sofia Ferreira', turma: '8º A', pontos: 110 },
-  { nome: 'Lucas Mendes', turma: '9º B', pontos: 105 },
-  { nome: 'Isabella Lima', turma: '7º A', pontos: 98 },
-  { nome: 'Gabriel Rocha', turma: '8º C', pontos: 92 },
-  { nome: 'Beatriz Alves', turma: '9º C', pontos: 88 },
-  { nome: 'Rafael Dias', turma: '7º B', pontos: 85 }
+  { nome: 'Ana Silva', turma: '2º 1', pontos: 250 },
+  { nome: 'João Santos', turma: '2º 2', pontos: 135 },
+  { nome: 'Maria Oliveira', turma: '2º 3', pontos: 228 },
+  { nome: 'Pedro Gabriel', turma: '2º 4', pontos: 1150 },
+  { nome: 'Sofia Ferreira', turma: '2º 5', pontos: 410 },
+  { nome: 'Lucas Mendes', turma: '2º 6', pontos: 105 },
+  { nome: 'Isabella Lima', turma: '2º 7', pontos: 198 },
+  { nome: 'Gabriel Rocha', turma: '2º 8', pontos:392 },
 ];
 
 // Função para mostrar loading
