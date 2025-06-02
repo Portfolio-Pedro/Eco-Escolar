@@ -165,15 +165,14 @@ function criarFiltros() {
       cursor: pointer;
     ">
       <option value="">Todas as turmas</option>
-      <option value="7º A">7º A</option>
-      <option value="7º B">7º B</option>
-      <option value="7º C">7º C</option>
-      <option value="8º A">8º A</option>
-      <option value="8º B">8º B</option>
-      <option value="8º C">8º C</option>
-      <option value="9º A">9º A</option>
-      <option value="9º B">9º B</option>
-      <option value="9º C">9º C</option>
+      <option value="2º 1">2º 1</option>
+      <option value="2º 2">2º 2</option>
+      <option value="2º 3">2º 3</option>
+      <option value="2º 4">2º 4</option>
+      <option value="2º 5">2º 5</option>
+      <option value="2º 6">2º 6</option>
+      <option value="2º 7">2º 7</option>
+      <option value="2º 8">2º 8</option>
     </select>
     <button id="btn-atualizar" style="
       padding: 0.5rem 1.5rem;
